@@ -16,27 +16,27 @@ const MESSAGE = process.env.MESSAGE ||  `
 *SESSION GENERATED SUCCESSFULY* ✅
 
 *Gɪᴠᴇ ᴀ ꜱᴛᴀʀ ᴛᴏ ʀᴇᴘᴏ ꜰᴏʀ ᴄᴏᴜʀᴀɢᴇ* 🌟
-https://github.com/Tohidkhan6332/TOHID-AI
+https://github.com/megaind25/GHAZI_MD
 
-*Tᴇʟᴇɢʀᴀᴍ Gʀᴏᴜᴘ* 🌟
-https://t.me/Tohid_Tech
+*Facebook Id* 🌟
+https://www.facebook.com/saqibsarwarghazi501
 
 *WʜᴀᴛsAᴘᴘ Gʀᴏᴜᴘ* 🌟
 https://chat.whatsapp.com/IqRWSp7pXx8DIMtSgDICGu
 
-*WʜᴀᴛsAᴘᴘ ᴄʜᴇɴɴᴀʟ* 🌟
-https://whatsapp.com/channel/0029VaGyP933bbVC7G0x0i2T
+*Facebook ᴄʜᴇɴɴᴀʟ* 🌟
+https://www.facebook.com/saqibsaqrwar501
 
-*Yᴏᴜ-ᴛᴜʙᴇ ᴛᴜᴛᴏʀɪᴀʟꜱ* 🌟 
-https://youtube.com/Tohidkhan_6332
+*Yᴏᴜ-ᴛᴜʙᴇ channel* 🌟 
+https://www.youtube.com/@saqibsarwarghaziofficial4637
 
 *ɢɪᴛʜᴜʙ* 🌟
-http://GitHub.com/Tohidkhan6332
+https://github.com/megaind25
 
 *Wᴇʙsɪᴛᴇ* 🌟
 https://tohid-khan-web.vercel.app/
 
-*TOHID-Ai--WHATTSAPP-BOT* 🥀
+*ghazi-Ai--WHATTSAPP-BOT* 🥀
 `
 
 
